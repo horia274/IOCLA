@@ -2,6 +2,8 @@
 
 ## Continut
 
+Enunturile exercitilor rezolvate se pot gasi [aici](https://ocw.cs.pub.ro/courses/iocla)
+
 * lab_01 - recapitulare C
 * lab_02 - pointeri in C si introducere in gdb
 * lab_03 - goto in C
