@@ -2,7 +2,7 @@
 
 ## Continut
 
-Enunturile exercitilor rezolvate se pot gasi [aici](https://ocw.cs.pub.ro/courses/iocla)
+Enunturile exercitilor rezolvate se pot gasi [aici](https://ocw.cs.pub.ro/courses/iocla), in cadrul fiecarui laborator
 
 * lab_01 - recapitulare C
 * lab_02 - pointeri in C si introducere in gdb
