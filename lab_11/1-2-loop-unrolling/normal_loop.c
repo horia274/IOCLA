@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<sys/time.h>
 
-#define N (100 * 1000 * 1000)
-// #define N 10
+// #define N (100 * 1000 * 1000)
+#define N 10
 
 int list[N], sum;
 

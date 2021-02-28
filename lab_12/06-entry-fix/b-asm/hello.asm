@@ -7,6 +7,8 @@ section .rodata
 
 section .text
 
+global main
+
 hi:
     push ebp
     mov ebp, esp

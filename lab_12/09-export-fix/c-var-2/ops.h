@@ -5,6 +5,7 @@ void init(void);
 void set(int value);
 int get(void);
 
+int age;
 void print_age(void);
 
 #endif

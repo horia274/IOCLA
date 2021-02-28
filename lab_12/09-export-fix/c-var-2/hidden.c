@@ -1,4 +1,4 @@
-extern int hidden_value;
+static int hidden_value;
 
 void init(void)
 {
